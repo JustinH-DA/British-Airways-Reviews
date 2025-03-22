@@ -1,9 +1,9 @@
-#✈️ British Airways Customer Reviews
+✈️ British Airways Customer Reviews
 
-##📚 About Data
+📚 About Data
 
-##💡 Highlights
+💡 Highlights
 
-##✏️ Data Wrangling
+✏️ Data Wrangling
 
-##📊 Visualization
+📊 Visualization
