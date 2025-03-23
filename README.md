@@ -9,7 +9,8 @@ Customer reviews of British Airways flights from March 2016 - October 2023. It c
 ## 💡 Highlights
 - Overall Ratings are based out of 10 with an average of just 4.3 with 273 of the 859 reviews taken gave an Overall of 1/10
 - USA and Canada had joint-highest Overall ratings (4.4) when surveying countries with 10+ reviews
-- 
+- Boeing 787 boasts the higest Overall Aircraft rating while the A321 trails the rest of the pack with the only rating below 4
+
 ## ✏️ Data Cleaning
 - Removed unverified trips
 - Removed blank, duplicate and incomplete reviews
