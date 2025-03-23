@@ -18,6 +18,6 @@ Customer reviews of British Airways flights from March 2016 - October 2023. It c
 ## 📊 Visualization
 Produced 1 page dashboard using Tableau
 
-Tableau: [Link](https://github.com/JustinH-DA/British-Airways-Reviews/blob/be8fed0e66e6ae9971d03b009f1f6552259b5beb/British%20Airways%20Review%20Project.twbx)
+Tableau: [Link](https://public.tableau.com/views/BritishAirwaysReviewProject_17426398963740/Dashboard1?:language=en-US&publish=yes&:sid=70A7A3933E6C4080805845CBEBE03BAD-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Unicorns-2](https://github.com/JustinH-DA/British-Airways-Reviews/blob/f997fee150f69f6cb03f841fbe0ed97510ff60a6/Dashboard%201%20(1).png)
