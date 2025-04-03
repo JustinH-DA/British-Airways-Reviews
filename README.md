@@ -10,8 +10,7 @@ Customer ratings of British Airways flights from March 2016 - October 2023. It c
 - Boeing 787 boasts the higest Overall Aircraft rating while the A321 trails the rest of the pack with the only rating below 4
 
 ## ✏️ Data Cleaning
-- Removed unverified trips
-- Removed blank, duplicate and incomplete reviews
+- Removed unverified trips, non-critical columns, blank, duplicate and incomplete reviews
 - Formatted Date & Date Flown columns. correcting inconsistent formats
 
 📍 Clean Data: [ba_reviews (cleaned).csv](https://github.com/JustinH-DA/British-Airways-Reviews/blob/8c8ab028b06b70a21cfbc63ff166657d29d28311/ba_reviews%20(cleaned).csv)
@@ -19,6 +18,6 @@ Customer ratings of British Airways flights from March 2016 - October 2023. It c
 ## 📊 Visualization
 Produced 1 page dashboard using Tableau
 
-Tableau: [Link](https://public.tableau.com/views/BritishAirwaysReviewProject_17426398963740/Dashboard1?:language=en-US&publish=yes&:sid=70A7A3933E6C4080805845CBEBE03BAD-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau: [Link](https://public.tableau.com/views/BritishAirwaysReviewProject_17426398963740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Unicorns-2](https://github.com/JustinH-DA/British-Airways-Reviews/blob/f997fee150f69f6cb03f841fbe0ed97510ff60a6/Dashboard%201%20(1).png)
+![Unicorns-2]()
